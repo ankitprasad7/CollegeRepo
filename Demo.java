@@ -1,8 +1,9 @@
 class Demo
 {
+<<<<<<< HEAD
 public void abc()
 {
-	//ajay
+	
 	System.out.println("Good Evening");
-}
+
 }
