@@ -1,6 +1,10 @@
 public class Teacher
 {
 
+Teacher()
+{
+System.out.println("Teacher constructor called");
+}
 public static void main([String args[])
 {
 
